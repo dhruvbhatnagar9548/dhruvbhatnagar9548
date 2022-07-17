@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruv Bhatnagar
 - 👀 I’m interested in Data science and Machine learning
-- 🌱 I’m currently learning Data science and Machine Learning roles for Internship from (6-12 months) or full job time role.
+- 🌱 I’m currently working as an ML engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhruvbhstnsgsr9548@gmail.com
 
